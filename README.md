@@ -7,12 +7,13 @@ But with a completely new gameplay, instead of shooting, you have to use your re
 
 ## Usage
 ### Requisition
-Create Database with SQLite3 using queries in file for the game in 'Install Database' folder </br>
-Edit the path to the database file in the config file (.../resources/config/config.properties)
+Create Database with SQLite3 using queries in file for the game in 'Install Database' folder. </br>
+
+Edit the path to the database file in the config file (.../resources/config/config.properties).
 
 ### How to play
 
-``Using only 4 arrow buttons to move (left, right, up, down)``
+Using only 4 arrow buttons to move (left, right, up, down)
 
 ## Gameplay
 
@@ -26,3 +27,8 @@ Edit the path to the database file in the config file (.../resources/config/conf
 
 ### 4. Gameover scene
 ![image](https://user-images.githubusercontent.com/57801022/148006356-e80531c4-1874-44b4-853d-8b8a8bb883df.png)
+
+## Summary
+If you enjoy using this library, give me a star on Github and share it to your friends :)
+
+If you have an error caused by the api, please submit an Issue on the repository!
