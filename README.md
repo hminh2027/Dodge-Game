@@ -31,4 +31,4 @@ Using only 4 arrow buttons to move (left, right, up, down)
 ## Summary
 If you enjoy using this library, give me a star on Github and share it to your friends :)
 
-If you have an error caused by the api, please submit an Issue on the repository!
+If you have an error, please submit an Issue on the repository!
