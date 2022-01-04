@@ -1,5 +1,6 @@
-******************GHI CHÚ******************
-Game sử dụng cơ sở dữ liệu sqlite3 nhằm giảm nhẹ dung lượng và trách sự phức tạp nên cần liên kết với JDBC và thay đổi các đường dẫn Url:
+HƯỚNG DẪN CHI TIẾT CÀI ĐẶT GAME
+
+- Game sử dụng cơ sở dữ liệu sqlite3 nhằm giảm nhẹ dung lượng và trách sự phức tạp nên cần liên kết với JDBC và thay đổi các đường dẫn Url:
 
 (1) JDBC
 	C1: Tải JDBC mới bản 3.34
