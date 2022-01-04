@@ -7,7 +7,8 @@ But with a completely new gameplay, instead of shooting, you have to use your re
 
 ## Usage
 ### Requisition
-Create Database with SQLite3 using queries in file for the game in 'Install Database' folder__Edit the path to the database file in the config file (.../resources/config/config.properties)
+Create Database with SQLite3 using queries in file for the game in 'Install Database' folder </br>
+Edit the path to the database file in the config file (.../resources/config/config.properties)
 
 ### How to play
 
