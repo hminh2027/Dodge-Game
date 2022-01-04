@@ -7,9 +7,9 @@ But with a completely new gameplay, instead of shooting, you have to use your re
 
 ## Usage
 ### Requisition
-Database with SQLite3
+1. Database with SQLite3
 
-JDBC version 3.34
+2. JDBC version 3.34
 
 More detail in README.txt in folder 'Install Database' ...
 
